@@ -31,3 +31,9 @@
 #### 실행 결과
 ![Capture](https://user-images.githubusercontent.com/80517119/164936894-7ae9dfcb-6ae5-4419-9810-050a9faddd06.JPG)
 
+--------
+### 성능 분석
+#### 시간 복잡도
+- DFS
+
+
